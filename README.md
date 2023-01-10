@@ -5,8 +5,11 @@
 
 
 #### 安装教程
-1.  xxxx
-
+1.      <dependency>
+             <groupId>cn.lindianyu</groupId>
+             <artifactId>ldy-component</artifactId>
+             <version>1.0.1</version>
+         </dependency>
 #### 使用说明
 1. 模板类如: @Excel(name = "编号", orderNum = "1")
              private String no = "123124";
